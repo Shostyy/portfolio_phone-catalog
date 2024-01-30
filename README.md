@@ -1,4 +1,5 @@
 # Phone Catalog App
+[DEMO LINK](https://shostyy.github.io/react_phone-catalog/)
 
 # Description
 This GitHub portfolio project serves as a testament to my proficiency in frontend development, specifically in building a comprehensive phone catalog web application. Leveraging technologies like React, Redux, Redux Toolkit, and TypeScript, I've crafted a robust and user-friendly platform for browsing and discovering the latest smartphones. The inclusion of local storage ensures personalized user experiences, while functional components facilitate efficient code organization and maintenance.
